@@ -1,4 +1,4 @@
-# Toptal-Recommengine
+# Recommengine
 
 prototype recommendation engine
 
